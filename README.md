@@ -43,7 +43,17 @@ so in the video you'll see I had to put a white surface in front of the dishwash
 ENVIRONMENTAL SETUP FOR LINE FOLLOWING AND WALL FOLLOWING:
 
 ![Screenshot (118)](https://user-images.githubusercontent.com/81368192/149876788-d4c935a1-aa2d-4026-87bc-ca5a50d2e2a7.png)
+
+Making a path in v-rep software is quite easy. A path is a pseudo object, representing a succession of points with orientation in space. pseudo object, since it is built using merely dummies and a customization script that describes its functionality and behaviour. Path objects can be added to the scene Â with [Menu bar --> Add --> Path].
+A path is composed by control points that define its curve in space. Control points can be shifted, copy/pasted or deleted.
+
 ![Screenshot (119)](https://user-images.githubusercontent.com/81368192/149876801-20453aa7-f9aa-422d-8ba4-b8a410354dd5.png)
+
+1.	The map compromises a wall which is the skeleton of the path to follow
+2.	 It contains lines that indicate the ideal path that the robot should follow and 
+3.	 A bounding box around the area so the robot cannot escape.
+It compromises a square plane surrounded by a 15 meters bounding box, with addition of a 2 by 2 meter smaller box placed inside the surrounding walls in the 
+far right corner, and a further 8 by 4 meter walls. The task was completed successfully, a program was developed that starts at a random position on the scene presented above, takes a random turn, and follows the walls on a determined path. 
 
 
 
