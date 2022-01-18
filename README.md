@@ -23,6 +23,9 @@ Here in this project, we are using two IR sensor modules namely the left sensor 
 If the left sensor comes on a black line then the robot turn the left side. If the right sensor sense black line then robot turn right side until both sensors comes at the
 white surface. When the white surface comes robot starts moving on forward again. If both sensors come on the black line, the robot stops.
 
+![Screenshot (116)](https://user-images.githubusercontent.com/81368192/149876175-4d7808cd-beee-4c9f-bf61-bfae302b64e1.png)
+
+
  WALL FOLLOWER:
 In order to follow walls, you need at least two sensors (2 bits of information) to handle the four potential situations the robot could be in. 
 One sensor has to be in the front, and the second could be on the left or right of the robot. The more sensors you use, the more information you have, so you can make
