@@ -42,6 +42,10 @@ so in the video you'll see I had to put a white surface in front of the dishwash
 
 ENVIRONMENTAL SETUP FOR LINE FOLLOWING AND WALL FOLLOWING:
 
+![Screenshot (118)](https://user-images.githubusercontent.com/81368192/149876788-d4c935a1-aa2d-4026-87bc-ca5a50d2e2a7.png)
+![Screenshot (119)](https://user-images.githubusercontent.com/81368192/149876801-20453aa7-f9aa-422d-8ba4-b8a410354dd5.png)
+
+
 
 
  
