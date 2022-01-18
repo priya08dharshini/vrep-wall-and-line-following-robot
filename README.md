@@ -55,6 +55,11 @@ A path is composed by control points that define its curve in space. Control poi
 It compromises a square plane surrounded by a 15 meters bounding box, with addition of a 2 by 2 meter smaller box placed inside the surrounding walls in the 
 far right corner, and a further 8 by 4 meter walls. The task was completed successfully, a program was developed that starts at a random position on the scene presented above, takes a random turn, and follows the walls on a determined path. 
 
+RESULTS: 
+
+![Screenshot (120)](https://user-images.githubusercontent.com/81368192/149877252-723b24cc-005b-405d-a408-c45f087d607d.png)
+![Screenshot (121)](https://user-images.githubusercontent.com/81368192/149877264-ea7c1deb-c307-4937-888f-94ec47c74854.png)
+
 
 
 
