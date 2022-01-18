@@ -37,6 +37,8 @@ the logic is set up to only be binary because there is no way to tell the distan
 speed based on the distance to make the robot travel around the room faster. I actually couldn't get the sensor to reflect at all off a black surface, 
 so in the video you'll see I had to put a white surface in front of the dishwasher. An audio based sensor would not have this problem.
 
+![Screenshot (117)](https://user-images.githubusercontent.com/81368192/149876357-3dfa4c9e-b776-4a15-8e23-4623984ca1b1.png)
+
  
 
 
