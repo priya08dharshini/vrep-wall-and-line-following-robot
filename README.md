@@ -1,5 +1,5 @@
 # vrep-wall-and-line-following-robot
-wall following robot using wall following logic and line following drone
+
 
 Coppeliasim software and environmental setup:
 
@@ -38,6 +38,11 @@ speed based on the distance to make the robot travel around the room faster. I a
 so in the video you'll see I had to put a white surface in front of the dishwasher. An audio based sensor would not have this problem.
 
 ![Screenshot (117)](https://user-images.githubusercontent.com/81368192/149876357-3dfa4c9e-b776-4a15-8e23-4623984ca1b1.png)
+
+
+ENVIRONMENTAL SETUP FOR LINE FOLLOWING AND WALL FOLLOWING:
+
+
 
  
 
